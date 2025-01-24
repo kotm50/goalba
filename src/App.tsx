@@ -37,7 +37,7 @@ import ExpirationFiveMinuteModal from "./components/ExpirationFiveMinuteModal";
 
 function App() {
   const { state, dispatch } = useAuth();
-  setDispatch(dispatch); // dispatch 전달
+  setDispatch(dispatch); // dispatch 전달!
 
   return (
     <RecoilRoot>
