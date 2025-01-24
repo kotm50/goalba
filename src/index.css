@@ -1,0 +1,30 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.ql-align-center {
+  text-align: center !important;
+}
+
+.ql-align-center img {
+  margin: 0 auto !important;
+}
+
+.ql-align-left {
+  text-align: left !important;
+}
+
+.ql-align-right {
+  text-align: right !important;
+}
+
+.ql-size-small {
+  font-size: 0.8em !important;
+}
+
+.ql-size-large {
+  font-size: 1.5em !important;
+}
+.ql-size-huge {
+  font-size: 2em !important;
+}

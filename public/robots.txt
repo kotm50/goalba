@@ -1,0 +1,7 @@
+User-agent: *
+Disallow : /edit/
+Disallow : /scrape
+Disallow : /service
+Disallow : /favorite
+Disallow : /recent
+Allow: /
